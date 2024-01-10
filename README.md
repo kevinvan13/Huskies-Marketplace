@@ -12,4 +12,5 @@ Welcome to Huskies Marketplace, the dedicated trading platform exclusively desig
 
 ## Getting Started
 Link: https://cs5610-final.vercel.app/
+
 To start using Huskies Marketplace, simply register for an account using your university email. Once verified, you'll gain access to all the features our platform offers, including the ability to view and provide locations for goods.
